@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/GitHub/portfolio-chm"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../硬碟資料/作品集網頁版型/iPortfolio-pro"
+		}
+	],
+	"settings": {
+		"github-enterprise.uri": "https://github.com/whitemao/portfolio-chm.git"
+	}
+}
